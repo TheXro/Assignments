@@ -1,4 +1,4 @@
-# React + Vite
+# Assignment for `useReducer`
 
 
 # INSTRUCTIONS / CONSIDERATIONS:
